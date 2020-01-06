@@ -11,3 +11,7 @@ section {
   border-color: #97a49b;
   color: #fff;
 }
+
+img {
+  max-height: 500px;
+}
