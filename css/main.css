@@ -1,0 +1,13 @@
+html {
+  color: #fff;
+  font-family: Georgia, serif;
+}
+
+section {
+  background-color: #495562;
+}
+
+.btn {
+  border-color: #97a49b;
+  color: #fff;
+}
