@@ -14,8 +14,8 @@ section {
 
 .btn:hover {
   color: #495562;
-  border-color: #fff;
-  background-color: #fff;
+  border-color: #efefef;
+  background-color: #efefef;
 }
 
 img {
@@ -26,9 +26,9 @@ img {
 
   section {
     position: relative;
-    top: 15em;
+    top: 16em;
     background-color: transparent;
-    background-image: linear-gradient(rgba(73, 85, 98, 1));
+    background-image: linear-gradient(to top, rgba(73, 85, 98, .9), transparent);
   }
 
   img {
@@ -39,6 +39,5 @@ img {
     border-color: #fff;
     color: #fff;
   }
-
 
 }
